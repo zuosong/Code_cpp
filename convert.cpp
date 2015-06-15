@@ -1,3 +1,5 @@
+/*convert the decimal number to octal or hexadecimal number
+*/
 #include <iostream>  
 using namespace std;  
   
@@ -5,8 +7,8 @@ int main()
 {  
     int test=64;  
     cout<<"DEC:"<<test<<endl;  
-    cout<<"OCT:"<<oct<<test<<endl;//å…«è¿›åˆ¶  
-    cout<<"HEX:"<<hex<<test<<endl;//åå…­è¿›åˆ¶  
+    cout<<"OCT:"<<oct<<test<<endl;//×ª»¯Îª°Ë½øÖÆ
+    cout<<"HEX:"<<hex<<test<<endl;//×ª»»ÎªÊ®Áù½øÖÆ  
   
     return 0;  
 }

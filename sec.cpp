@@ -1,3 +1,6 @@
+/*date:2015/06/15
+  use the bitset convert a number to binary
+*/
 #include <iostream>
 #include <limits>
 #include <bitset>

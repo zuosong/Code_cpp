@@ -1,3 +1,4 @@
+/*测试程序，测试tobinary.cpp使用*/
 #include <iostream>  
 #include <limits.h>
 #include "tobinary.h"

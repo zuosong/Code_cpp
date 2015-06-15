@@ -1,4 +1,5 @@
-#ifndef  TOBINARY_H
+/*该文件为tobinar.cpp的头文件*/
+#ifndef  TOBINARY_H //此处需要大写
 #define	 TOBINARY_H
 
 #include <iostream>  

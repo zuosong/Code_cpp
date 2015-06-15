@@ -1,3 +1,6 @@
+/*创建时间：2015-6-10
+  名称：主程序
+  用途：调用其他程序使用*/
 #include <iostream>  
 #include <limits.h>
 #include "tobinary.h"
